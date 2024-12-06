@@ -30,7 +30,7 @@
  * This code is based on "cttc-3gpp-channel-simple-ran.cc" (5G-LENA) code.
  */
 
-// New Start
+// New Start modified
 
 #include "ns3/core-module.h"
 #include "ns3/network-module.h"
